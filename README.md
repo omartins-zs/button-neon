@@ -1,12 +1,12 @@
-# Square To Circle 
+# Button Neon
 
 </p>
 <h1 align="center">
-    <img alt="Bateria" title="" src="./assets/img/Square-to-Circle.gif" />
+    <img alt="Button Neon" title="" src="./assets/img/button-neon.gif" />
 </h1>
 
 <h4 align="center"> 
- 🟥 Button Neon 🟥
+ 🟥🔘🔻 Button Neon 🔻🔘🟥
 </h4>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 💻 Sobre o projeto
 
-🔄 Square To Circle
+🔘🔻 Button Neon
 
 ## 🛠 Tecnologias
 
